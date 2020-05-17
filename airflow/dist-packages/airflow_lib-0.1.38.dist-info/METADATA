@@ -1,0 +1,20 @@
+Metadata-Version: 2.0
+Name: airflow-lib
+Version: 0.1.38
+Summary: NGAP 2.0 Airflow Lib
+Home-page: http://bitbucket.nike.com/projects/NGAP_V2/repos/airflow-lib
+Author: CDT Platform Analytics - Data Engineering Foundation
+Author-email: Lst-DigitalTech.NGAP.Developers@nike.com
+License: UNKNOWN
+Keywords: NGAP2.0 Airflow Lib
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Developers
+Classifier: Programming Language :: Python :: 2
+Classifier: Programming Language :: Python :: 2.7
+Requires-Dist: boto
+Requires-Dist: boto3
+
+UNKNOWN
+
+

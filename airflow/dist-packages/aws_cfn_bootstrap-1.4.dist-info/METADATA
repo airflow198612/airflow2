@@ -1,0 +1,17 @@
+Metadata-Version: 2.0
+Name: aws-cfn-bootstrap
+Version: 1.4
+Summary: An EC2 bootstrapper for CloudFormation
+Home-page: http://aws.amazon.com/cloudformation/
+Author: AWS CloudFormation
+Author-email: UNKNOWN
+License: Apache 2.0
+Platform: UNKNOWN
+Classifier: License :: OSI Approved :: Apache Software License
+Requires-Dist: pystache (>=0.4.0)
+Requires-Dist: python-daemon (>=1.5.2,<2.0)
+Requires-Dist: setuptools
+
+Bootstraps EC2 instances by retrieving and processing the Metadata block of a CloudFormation resource.
+
+

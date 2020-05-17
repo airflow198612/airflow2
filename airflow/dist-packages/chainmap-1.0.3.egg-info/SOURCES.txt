@@ -1,0 +1,17 @@
+CHANGES.yml
+MANIFEST.in
+README.rst
+pytest.ini
+setup.cfg
+setup.py
+tox.ini
+toxcov.ini
+chainmap/__init__.py
+chainmap/chainmap.py
+chainmap/version.py
+chainmap.egg-info/PKG-INFO
+chainmap.egg-info/SOURCES.txt
+chainmap.egg-info/dependency_links.txt
+chainmap.egg-info/not-zip-safe
+chainmap.egg-info/top_level.txt
+test/test_chainmap.py

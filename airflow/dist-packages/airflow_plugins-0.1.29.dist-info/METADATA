@@ -1,0 +1,23 @@
+Metadata-Version: 2.0
+Name: airflow-plugins
+Version: 0.1.29
+Summary: NGAP 2.0 Airflow Plugins
+Home-page: http://bitbucket.nike.com/projects/NGAP_V2/repos/airflow-plugins
+Author: CDT Platform Analytics - Data Engineering Foundation
+Author-email: Lst-DigitalTech.NGAP.Developers@nike.com
+License: UNKNOWN
+Keywords: NGAP2.0 Airflow Plugins
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Developers
+Classifier: Programming Language :: Python :: 2
+Classifier: Programming Language :: Python :: 2.7
+Requires-Dist: airflow-lib (==0.1.38)
+Requires-Dist: boxsdk[jwt]
+Requires-Dist: emr-client (==1.0.9)
+Requires-Dist: nflx-genie-client (==3.4.1)
+Requires-Dist: snowflake-connector-python (==1.4.1)
+
+UNKNOWN
+
+

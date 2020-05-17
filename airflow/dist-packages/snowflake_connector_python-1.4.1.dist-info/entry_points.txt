@@ -1,0 +1,3 @@
+[console_scripts]
+snowflake-ocsp-dump-response = snowflake.connector.ocsp_pyopenssl:cli_ocsp_dump_response
+

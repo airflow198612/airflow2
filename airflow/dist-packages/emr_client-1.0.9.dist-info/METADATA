@@ -1,0 +1,18 @@
+Metadata-Version: 2.0
+Name: emr-client
+Version: 1.0.9
+Summary: EMR REST API - CEREBRO
+Home-page: UNKNOWN
+Author: UNKNOWN
+Author-email: Lst-DigitalTech.NGAP.Developers@nike.com
+License: UNKNOWN
+Keywords: Swagger,EMR REST API - CEREBRO
+Platform: UNKNOWN
+Requires-Dist: certifi
+Requires-Dist: python-dateutil
+Requires-Dist: six (>=1.10)
+Requires-Dist: urllib3 (>=1.15)
+
+Used to spin up,describe,resize,list,terminate EMR
+
+

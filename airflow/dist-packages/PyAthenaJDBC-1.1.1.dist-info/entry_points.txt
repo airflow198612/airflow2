@@ -1,0 +1,3 @@
+[sqlalchemy.dialects]
+awsathena.jdbc = pyathenajdbc.sqlalchemy_athena:AthenaDialect
+

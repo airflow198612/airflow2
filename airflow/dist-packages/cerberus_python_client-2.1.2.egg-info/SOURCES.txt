@@ -1,0 +1,17 @@
+LICENSE.txt
+MANIFEST.in
+README.md
+setup.cfg
+setup.py
+cerberus/__init__.py
+cerberus/aws_auth.py
+cerberus/client.py
+cerberus/user_auth.py
+cerberus/util.py
+cerberus_python_client.egg-info/PKG-INFO
+cerberus_python_client.egg-info/SOURCES.txt
+cerberus_python_client.egg-info/dependency_links.txt
+cerberus_python_client.egg-info/requires.txt
+cerberus_python_client.egg-info/top_level.txt
+tests/matcher/__init__.py
+tests/mocks/__init__.py
